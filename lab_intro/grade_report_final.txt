@@ -1,0 +1,39 @@
+Grading r916 by langley1 committed on Wed Jan 18 18:54:45 CST 2017
+Monad Autograder
+Testing lab_intro at 2017-01-23 00:19:59
+
+"I did respond to your email, but I might have forgotten to hit send." ~ Cinda Heeren
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testBrighten  . [33 pts] - FAILED: unit_tests.cpp:59: [(int)brightened(x, y)->red => 0] != [image(x, y)->red + 100 => 100]
+testCrosshairs  [33 pts] - passed
+testBlendImages [34 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 67
+
+
+
+Detailed test output...
+================================================================
+----------------------------------------------------------------
+testBrighten [33 points]
+Result: FAILED: unit_tests.cpp:59: [(int)brightened(x, y)->red => 0] != [image(x, y)->red + 100 => 100]
+Took 0ms (1000ms timeout)
+Output:
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+Total score...
+================================================================
+TOTAL SCORE: 67
+

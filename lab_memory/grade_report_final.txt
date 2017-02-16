@@ -1,0 +1,24 @@
+Grading r8107 by langley1 committed on Wed Feb  1 19:25:56 CST 2017
+Monad Autograder
+Testing lab_memory at 2017-02-06 00:42:38
+
+"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats." ~ Howard H. Aiken
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_constructor (asan) [5 pts]  - passed
+test_allocate (asan)  . [5 pts]  - passed
+test_printrooms (asan)  [20 pts] - passed
+test_any_output . . . . [30 pts] - passed
+test_correct_output . . [40 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
